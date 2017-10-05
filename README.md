@@ -1,3 +1,4 @@
-# remove node modules 
+## How to run this application
 
-node_modules/*
+1. Enter *npm install* in terminal
+2. Enter *node server.js*
